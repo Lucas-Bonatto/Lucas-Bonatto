@@ -5,6 +5,7 @@ Desenvolvedor de software em Caxias do Sul (RS), focado em transformar problemas
 Meu portfólio prioriza **código legível**, **testes automatizados**, **segurança**, **documentação clara** e **publicação reproduzível**. Gosto de acompanhar o produto do problema inicial até uma demonstração que outras pessoas possam usar com segurança.
 
 [![Contato por e-mail](https://img.shields.io/badge/Contato-lucas.jorchuabonatto%40gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:lucas.jorchuabonatto@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--bonatto-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-bonatto/)
 
 ## Projetos em destaque
 
@@ -40,3 +41,5 @@ Meu portfólio prioriza **código legível**, **testes automatizados**, **segura
 Estou aberto a oportunidades e conversas sobre desenvolvimento de software.
 
 **E-mail:** [lucas.jorchuabonatto@gmail.com](mailto:lucas.jorchuabonatto@gmail.com)
+
+**LinkedIn:** [linkedin.com/in/lucas-bonatto](https://www.linkedin.com/in/lucas-bonatto/)
