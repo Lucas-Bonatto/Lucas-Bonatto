@@ -11,6 +11,7 @@ Meu portfólio prioriza **código legível**, **testes automatizados**, **segura
 
 | Projeto | O que demonstra | Tecnologias | Acesso |
 | --- | --- | --- | --- |
+| [**ProcessTwin AI**](https://github.com/Lucas-Bonatto/processtwin-ai) | Inteligência operacional e process mining com dados sintéticos: dashboard, variantes, retrabalho, importação CSV/XES e mapas de processo. | Next.js, TypeScript, FastAPI, Python, PM4Py, SQLAlchemy | [Código e apresentação](https://github.com/Lucas-Bonatto/processtwin-ai) · [Vídeo](https://github.com/Lucas-Bonatto/processtwin-ai/releases/download/v1.0.0-demo/processtwin-ai-demo.mp4) |
 | [**Fleet Manager**](https://github.com/Lucas-Bonatto/fleetmanager) | Gestão de veículos, motoristas, tributos e manutenções, com autenticação e demonstração pública somente para leitura. | Java 21, Spring Boot, Thymeleaf, PostgreSQL, Flyway | [Aplicação](https://fleetmanager-lucasbonatto.alwaysdata.net) |
 | [**Radar de Preços**](https://github.com/Lucas-Bonatto/price-watch-api) | API em camadas com coleta protegida contra SSRF, histórico, alertas, testes e documentação interativa. | Python, FastAPI, SQLAlchemy, Pytest, Vercel | [Demonstração](https://price-watch-api.vercel.app/) · [Swagger](https://price-watch-api.vercel.app/docs) |
 | [**Laço**](https://github.com/Lucas-Bonatto/laco-familia) | Aplicativo de cuidado familiar com autenticação, dados compartilhados em tempo real e políticas de acesso por família. | React Native, Expo, TypeScript, Supabase, PostgreSQL | [Código e apresentação](https://github.com/Lucas-Bonatto/laco-familia) |
